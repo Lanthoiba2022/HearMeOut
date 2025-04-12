@@ -1,8 +1,5 @@
 # Welcome to HearMeOut 
 
-## (UI Hackathon 2025-2)
-
-
 ## This project is built with .
 - Vite
 - TypeScript
@@ -30,4 +27,3 @@ npm i
 npm run dev
 ```
 
-# HearMeOut
